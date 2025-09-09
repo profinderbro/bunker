@@ -1,4 +1,4 @@
-# bunkr-albums.io Scraper (👉🏻 [Try Now](https://colab.research.google.com/github/profinderbro/bunker/blob/main/bunker.ipynb))
+# bunkr-albums.io Scraper (👉🏻 [Try Now](https://colab.research.google.com/github/profinderbro/bunker/blob/main/bunker.ipynb) Online)
 
 ### A Colab/Jupyter notebook for scraping and downloading videos from **bunkr-albums.io** links.  
 ---
