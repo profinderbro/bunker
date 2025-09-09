@@ -1,6 +1,6 @@
 # bunkr-albums.io Scraper  
 
-A Colab/Jupyter notebook for scraping and downloading videos from **bunkr-albums.io** links.  
+### A Colab/Jupyter notebook for scraping and downloading videos from **bunkr-albums.io** links.  
 ---
 ```
 # Install dependencies
